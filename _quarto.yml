@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jimmy Luc"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true

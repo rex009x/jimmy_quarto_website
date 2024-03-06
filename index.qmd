@@ -1,0 +1,5 @@
+---
+title: "Welcome to my website"
+---
+
+I am a fourth-year undergraduate student majoring in computer science and minoring in math & stats at the University of Toronto.
