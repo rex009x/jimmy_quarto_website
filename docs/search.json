@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website",
+    "title": "Welcome to my website!😎",
     "section": "",
     "text": "I am a fourth-year undergraduate student majoring in computer science and minoring in math & stats at the University of Toronto."
   },
@@ -19,5 +19,12 @@
     "title": "Contact",
     "section": "",
     "text": "E-mail: jimmy.luc@mail.utoronto.ca"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Click to Download"
   }
 ]

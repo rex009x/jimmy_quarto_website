@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my website"
+title: "Welcome to my website!😎"
+freeze: false
 ---
 
 I am a fourth-year undergraduate student majoring in computer science and minoring in math & stats at the University of Toronto.
+
+![](images/portrait.jpg){fig-align="center" width=80%}
